@@ -19,23 +19,27 @@ body {
 .logo-web-footer {
 color: #F4F4FD;
 }
-.nav-list {
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #2E2F42;
-list-style-type: none;
-text-decoration: none;
+.nav-list-items {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
 }
-.address-list {
-font-weight: 400;
-font-size: 16px;
+.nav-list-items:hover,
+.nav-list-items:focus,
+.nav-list-items:active {
+        color: #404bbf;
+}
+
+.address-list-items {
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
-list-style-type: none;
-text-decoration: none;
+}
+.address-list-items:hover
+.address-list-items:focus {
+        color: #404bbf;
 }
 .section-heading {
         font-weight: 700;
