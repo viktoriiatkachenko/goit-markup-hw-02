@@ -1,0 +1,65 @@
+body {
+    color: #2E2F42;
+    font-family: "Roboto", sans-serif;
+}
+.logo {;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4D5AE5;
+        text-decoration: none;
+}
+.logo-web-header {
+    color: #2E2F42;
+}
+.logo-web-footer {
+color: #F4F4FD;
+}
+.nav-list {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+list-style-type: none;
+text-decoration: none;
+}
+.address-list {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+list-style-type: none;
+text-decoration: none;
+}
+.section-heading {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--navy-blue);
+}
+.main-page {
+        background: #2E2F42;
+}
+.heading {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: white;
+}
+.btn {
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
+            color: white;
+            background-color: #4D5AE5;
+            cursor: pointer;
+}
