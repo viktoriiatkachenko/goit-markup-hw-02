@@ -31,7 +31,9 @@ color: #F4F4FD;
 .nav-list-items:active {
         color: #404bbf;
 }
-
+.address {
+        font-style: normal;
+}
 .address-list-items {
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -42,12 +44,12 @@ color: #434455;
         color: #404bbf;
 }
 .section-heading {
-        font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
-        color: var(--navy-blue);
+        color: #2e2f42;
+        text-transform: capitalize;
 }
 .main-page {
         background: #2E2F42;
@@ -72,6 +74,36 @@ color: #434455;
 .btn:hover,
 .btn:focus {
 background-color: #404BBF;
+}
+.strategy-list-items {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.strategy-list-text {
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                color: #434455;
+}
+.team-section {
+        background-color: #F4F4FD;
+}
+.team-names {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+        background-color: #FFFFFF;
+}
+.team-text {
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+        background-color: #FFFFFF;
 }
 .footer {
         background-color: #2e2f42;
