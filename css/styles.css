@@ -29,7 +29,7 @@ color: #F4F4FD;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #434455;
+        color: #2e2f42;
 }
 .nav-list-link:hover,
 .nav-list-link:focus,
@@ -86,7 +86,7 @@ background-color: #404BBF;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #434455;
+        color: #2e2f42;
 }
 .strategy-list-text {
                 line-height: 1.5;
@@ -102,6 +102,7 @@ background-color: #404BBF;
         line-height: 1.2;
         letter-spacing: 0.02em;
         text-align: center;
+        color: #2e2f42;
 }
 .team-text {
         line-height: 1.5;
@@ -117,6 +118,7 @@ background-color: #FFFFFF;
                 font-size: 20px;
                 line-height: 1.2;
                 letter-spacing: 0.02em;
+                color: #2e2f42;
 }
 .portfolio-list-text {
                 line-height: 1.5;
