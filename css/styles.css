@@ -36,15 +36,17 @@ color: #F4F4FD;
 .nav-list-link:active {
         color: #404bbf;
 }
-
+.address {
+        font-style: normal;
+}
 .address-list-link {
         color: #434455;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.address-list-link:hover
+.address-list-link:hover,
 .address-list-link:focus {
-color: #404BBF;
+color: #404bbf;
 }
 
 .section-heading {
