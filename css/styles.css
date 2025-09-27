@@ -54,7 +54,7 @@ color: #404bbf;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #2e2f42;
+        color: #2E2F42;
         text-transform: capitalize;
 }
 .main-page {
@@ -102,14 +102,26 @@ background-color: #404BBF;
         line-height: 1.2;
         letter-spacing: 0.02em;
         text-align: center;
-        background-color: #FFFFFF;
 }
 .team-text {
         line-height: 1.5;
         letter-spacing: 0.02em;
         text-align: center;
         color: #434455;
-        background-color: #FFFFFF;
+}
+.team-list-items {
+background-color: #FFFFFF;
+}
+.portfolio-list-heading {
+                font-weight: 500;
+                font-size: 20px;
+                line-height: 1.2;
+                letter-spacing: 0.02em;
+}
+.portfolio-list-text {
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                color: #434455;
 }
 .footer {
         background-color: #2e2f42;
